@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: Advanced Business Hours\n"
+"Language: es-MX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-16 18:47+0000\n"
+"PO-Revision-Date: 2017-05-16 18:51+0000\n"
+"Last-Translator: admin <me.dolatabadi@outlook.com>\n"
+"Language-Team: Spanish (Mexico)\n"
+"Plural-Forms: nplurals=2; plural=n != 1"
+
+#: includes/functions.php:73
+msgid "We are closed for the season. We open on"
+msgstr "Estamos cerrados por la temporada. Abrimos en"
+
+#: includes/widget.php:401
+msgid "Seasonal Message"
+msgstr "Mensaje estacional"
+
+#: includes/widget.php:556
+msgid "Seasonal Time Period"
+msgstr "Período de tiempo estacional"
+
+#: includes/widget.php:559
+msgid ""
+"Select seasonal start and end date. Leave empty for regular yearly hours."
+msgstr ""
+"Seleccione la fecha de inicio y fin de temporada. Dejar vacío para las horas "
+"regulares anuales."
+
+#: includes/widget.php:717
+msgid "Hide today's hours when open"
+msgstr "Ocultar las horas de hoy cuando abierto"
+
+#: includes/widget.php:747
+msgid "Display hours using 24 hour format"
+msgstr "Horas de visualización en formato 24 horas"
+
+#: includes/functions.php:65
+msgid "Business Hours"
+msgstr "Horas de trabajo"
+
+#: includes/functions.php:66
+msgid "We are currently open! Yes, come in"
+msgstr "Actualmente estamos abiertos! Sí, entra"
+
+#: includes/functions.php:67
+msgid "Sorry, We are currently closed!"
+msgstr "Lo sentimos, en estos momentos cerrado!"
+
+#: includes/functions.php:68
+msgid "Open"
+msgstr "Abierto"
+
+#: includes/functions.php:69
+msgid "Closed"
+msgstr "Cerrado"
+
+#: includes/functions.php:70
+msgid "Open 24 hours"
+msgstr "Abierto 24 horas"
+
+#: includes/functions.php:71
+msgid "Closed All Day"
+msgstr "Cerrado todo el día"
+
+#: includes/functions.php:72
+msgid "Special holiday hours in effect."
+msgstr "Horas de vacaciones especiales en vigor."
+
+#: includes/functions.php:239 includes/functions.php:280
+msgid "Today"
+msgstr "Hoy"
+
+#: includes/functions.php:344
+msgid "Tomorrow"
+msgstr "Mañana"
+
+#: includes/functions.php:585
+msgid "another day"
+msgstr "otro día"
+
+#: includes/functions.php:632
+msgid "Monday"
+msgstr "Lunes"
+
+#: includes/functions.php:633
+msgid "Mon"
+msgstr "Lu"
+
+#: includes/functions.php:636
+msgid "Tuesday"
+msgstr "Martes"
+
+#: includes/functions.php:637
+msgid "Tue"
+msgstr "Ma"
+
+#: includes/functions.php:640
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: includes/functions.php:641
+msgid "Wed"
+msgstr "Mi"
+
+#: includes/functions.php:644
+msgid "Thursday"
+msgstr "Jueves"
+
+#: includes/functions.php:645
+msgid "Thu"
+msgstr "Ju"
+
+#: includes/functions.php:648
+msgid "Friday"
+msgstr "Viernes"
+
+#: includes/functions.php:649
+msgid "Fri"
+msgstr "Vi"
+
+#: includes/functions.php:652
+msgid "Saturday"
+msgstr "Sábado"
+
+#: includes/functions.php:653
+msgid "Sat"
+msgstr "Sa"
+
+#: includes/functions.php:656
+msgid "Sunday"
+msgstr "Domingo"
+
+#: includes/functions.php:657
+msgid "Sun"
+msgstr "Do"
+
+#: includes/widget.php:26
+msgid "Displays a business hours widget"
+msgstr "Muestra un widget de horas de oficina"
+
+#. Name of the plugin
+#: includes/widget.php:31 includes/widget.php:281
+msgid "Advanced Business Hours"
+msgstr "Horario de atención avanzada"
+
+#: includes/widget.php:334
+msgid "Title"
+msgstr "Título"
+
+#: includes/widget.php:343
+msgid "Open Hours Message"
+msgstr "Horario Mensaje"
+
+#: includes/widget.php:352
+msgid "Closed Hours Message"
+msgstr "Closed Horas Mensaje"
+
+#: includes/widget.php:361
+msgid "Currently Open/Closed Badges"
+msgstr "Actualmente Placas abierto / cerrado"
+
+#: includes/widget.php:374
+msgid "Open 24 hours Text"
+msgstr "Abierto las 24 horas texto"
+
+#: includes/widget.php:383
+msgid "Closed All Day Text"
+msgstr "Texto cerrado todo el día"
+
+#: includes/widget.php:392
+msgid "Holiday Message for Header"
+msgstr "Mensaje de vacaciones para el encabezado"
+
+#: includes/widget.php:415
+msgid "Business Hours Data"
+msgstr "Horarios Comerciales de Datos"
+
+#: includes/widget.php:418
+msgid ""
+"Opening and closing hours using 12 hr clock. Ex: start at 8:00 AM and end at "
+"4:00 PM."
+msgstr ""
+"Horario de apertura y cierre con reloj de 12 horas. Ejemplo: comenzar a las "
+"8:00 AM y terminar a las 4:00 PM."
+
+#: includes/widget.php:483
+msgid ""
+"<strong>NOTE:</strong> If both fields are left empty, the front end will "
+"display hours as closed all day."
+msgstr ""
+"<strong> Nota: </strong> Si ambos campos están vacíos, el extremo delantero "
+"mostrará horas como cerrado todo el día."
+
+#: includes/widget.php:494
+msgid "Holidays & Special Days"
+msgstr "Vacaciones y días especiales"
+
+#: includes/widget.php:497
+msgid ""
+"Holidays data only works for today's hours. Please visit <a href=\"https:"
+"//help.dolatabadi.ca/advanced-business-hours/how-to-add-holidayspecial-days-"
+"hours.html\" target=\"_blank\">Help Center</a> for details."
+msgstr ""
+"Los datos de vacaciones sólo funcionan para las horas de hoy. Visite <a "
+"href=\"https://help.dolatabadi.ca/advanced-business-hours/how-to-add-"
+"holidayspecial-days-hours.html\" target=\"_blank\"> Centro de ayuda </a> "
+"para Detalles."
+
+#: includes/widget.php:597
+msgid "Header Background and Text Colors"
+msgstr "Cabecera del fondo y los colores de texto"
+
+#: includes/widget.php:600
+msgid ""
+"Select a background color and and a text color for the widget's header "
+"respectively."
+msgstr ""
+"Seleccionar un color de fondo y el color del texto y de la cabecera del "
+"widget, respectivamente."
+
+#: includes/widget.php:614
+msgid "Body Background and Text Colors"
+msgstr "Antecedentes cuerpo y los colores de texto"
+
+#: includes/widget.php:617
+msgid "Select a color for the body background and text color for the content."
+msgstr ""
+"Seleccionar un color para el fondo cuerpo y color de texto para el contenido."
+
+#: includes/widget.php:631
+msgid "Calendar Image/Icon Color"
+msgstr "Calendario de imagen / color del icono"
+
+#: includes/widget.php:634
+msgid "Color for the calendar image/icon in the header."
+msgstr "Colores de la imagen / icono de calendario en la cabecera."
+
+#: includes/widget.php:644
+msgid "Footer Background and Text Color"
+msgstr "Antecedentes pie de página y color del texto"
+
+#: includes/widget.php:647
+msgid "Select footer background color and text color respectively."
+msgstr ""
+"Seleccione el pie de página color de fondo y el color del texto, "
+"respectivamente."
+
+#: includes/widget.php:661
+msgid "Open/Closed Badge Color"
+msgstr "Abierto / Cerrado insignia del color"
+
+#: includes/widget.php:664
+msgid "Select a color for the open and closed badges respectively."
+msgstr ""
+"Seleccionar un color para las insignias abierta y cerrada, respectivamente."
+
+#: includes/widget.php:689
+msgid "Display hours for the entire week"
+msgstr "Mostrar horas durante toda la semana"
+
+#: includes/widget.php:698
+msgid "Abbreviations of days of the week"
+msgstr "Abreviaturas de días de la semana"
+
+#: includes/widget.php:707
+msgid "Hide today's hours when closed"
+msgstr "Ocultar las horas de hoy cuando esté cerrado"
+
+#: includes/widget.php:727
+msgid "Show tomorrow's hours"
+msgstr "Mostrar horas de mañana"
+
+#: includes/widget.php:737
+msgid "Display open 24 hours for certain days"
+msgstr "Mostrar abierto las 24 horas para determinados días"
+
+#: includes/widget.php:757
+msgid "Group consecutive days"
+msgstr "Grupo días consecutivos"
+
+#: includes/widget.php:766
+msgid "Use Font Awesome Icon"
+msgstr "Usar fuente Icono impresionante"
+
+#: includes/widget.php:769
+msgid ""
+"Visit <a href=\"http://fontawesome.io/icons/\" target=\"_blank\">here</a> to "
+"get list of icons."
+msgstr ""
+"Visita <a href=\"http://fontawesome.io/icons/\" target=\"_blank\"> aquí </a>"
+"para obtener la lista de iconos."
+
+#: includes/widget.php:782
+msgid "Include Font Awesome CSS File in Front End"
+msgstr "Incluir archivo de fuente CSS impresionante en el front-end"
+
+#: includes/widget.php:792
+msgid "Countdown to Closing and Opening Hours"
+msgstr "Cuenta atrás para la apertura y clausura Horas"
+
+#: includes/widget.php:802
+msgid "Load widget using ajax"
+msgstr "Cargar widget mediante ajax"
+
+#: includes/widget.php:812
+msgid "Load customizations as inline style in the header"
+msgstr "Cargar personalizaciones como estilo en línea en el encabezado"
+
+#: includes/widget.php:823
+msgid "Before Widget"
+msgstr "antes Widget"
+
+#: includes/widget.php:826
+msgid "Info to display before the widget. HTML tags are supported."
+msgstr "Info para mostrar ante el widget. etiquetas HTML son compatibles."
+
+#: includes/widget.php:835
+msgid "After Widget"
+msgstr "después Widget"
+
+#: includes/widget.php:838
+msgid "Info to display after the widget. HTML tags are supported."
+msgstr "Info para mostrar después del widget. etiquetas HTML son compatibles."
+
+#: includes/widget.php:847
+msgid "Header Background Image"
+msgstr "Cabecera de imagen de fondo"
+
+#: includes/widget.php:851
+msgid "Header image during opening hours."
+msgstr "Encabezado de la imagen durante el horario de apertura."
+
+#: includes/widget.php:860
+msgid "Header image during closing hours."
+msgstr "Encabezado de la imagen durante las horas de cierre."
+
+#: includes/widget.php:869
+msgid ""
+"<strong>NOTE:</strong> Must set both images, this will replace the default "
+"header. Which means calendar image and today's date will be hidden."
+msgstr ""
+"<strong> Nota: </strong> Debe ajustar ambas imágenes, esto va a reemplazar "
+"el encabezado predeterminado. Lo que significa que la imagen del calendario "
+"y la fecha de hoy se ocultará."
+
+#: includes/widget.php:881
+msgid "Shortcode"
+msgstr "Código corto"
+
+#: includes/widget.php:884
+msgid ""
+"Use the following shortcode to display this widget anywhere in your posts "
+"and pages."
+msgstr ""
+"Utiliza el siguiente código corto para visualizar este widget en cualquier "
+"parte de sus entradas y páginas."
+
+#: includes/widget.php:893
+msgid ""
+"<strong>Note:</strong> You must save the widget first and drag it to "
+"inactive widgets area at the bottom of this page and configure it."
+msgstr ""
+"<strong> Nota: </strong> Debe guardar el widget primera y arrastrarlo a la "
+"zona de widgets inactivos en la parte inferior de esta página y configurarlo."
+
+#: includes/widget.php:898
+msgid "Shortcode for Themes"
+msgstr "Código corto de Temas"
+
+#: includes/widget.php:901
+msgid ""
+"If you want to insert the shortcode directly in your theme, use the "
+"following code:"
+msgstr ""
+"Si desea insertar el código corto directamente en su tema, utilice el "
+"siguiente código:"
+
+#. Description of the plugin
+msgid ""
+"This plugin creates an advanced widget that can be used to display business "
+"hours."
+msgstr ""
+"Este plugin crea un widget de avanzada que se puede utilizar para visualizar "
+"las horas de trabajo."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/mrbeaver"
+msgstr "https://codecanyon.net/user/mrbeaver"
+
+#. Author of the plugin
+msgid "Mr. Beaver"
+msgstr "Mr. Beaver"

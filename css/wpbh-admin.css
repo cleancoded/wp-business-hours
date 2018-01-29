@@ -1,0 +1,223 @@
+/*
+ * WP Business Hours Widget Admin Style
+ * Author: CLEANCODED
+ * Version: 1.6.0
+ */
+@import url('../assets/font-awesome/css/font-awesome.min.css');
+
+span.wpbhshortcode {
+	padding: 10px;
+	border: 1px solid #ddd;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #eaeaea;
+	width: 90%;
+}
+
+.widgetdialog a {
+	text-decoration: none;
+}
+
+.widgetdialog label {
+	font-weight: bold;
+	color: #222222;
+	display: block;
+	text-shadow: 0 1px 0 #ffffff;
+	padding-bottom: 3px;
+}
+
+.widgetdialog .business-hours {
+	float: right;
+	display: block;
+	width: 64%;
+}
+
+.widgetdialog label.week-days {
+	float: left;
+	padding-right: 5px;
+	padding-top: 8px;
+	min-width: 30px;
+}
+
+.widgetdialog textarea:hover, .widgetdialog input[type="text"]:hover {
+	background-color: #f9f9f9;
+}
+
+.widgetdialog .left-padding {
+	margin-left: 25px;
+}
+
+.widgetdialog .top-padding {
+	margin-top: 15px;
+}
+
+.widgetdialog .controlDesc {
+	font-size: 12px;
+	display: block;
+	color: #888;
+	margin-bottom: 4px;
+}
+
+.widgetdialog input.time-picker.empty {
+	background-color: #ffcdd2;
+}
+
+.widgetdialog ul.tabcontent li ul li {
+	border-bottom: 1px dashed #e8e8e8;
+	margin-bottom: 7px;
+	padding-bottom: 9px;
+	overflow: auto;
+}
+
+.widgetdialog ul.tabcontent li ul li:last-child {
+	border-bottom: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.weekly-data {
+	margin-bottom: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+.widgetdialog .addImage, .widgetdialog .button, .widgetdialog .removeImage {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.plugin-version {
+	color: #bbbbbb;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 5px;
+}
+
+.plugin-name {
+	display: block;
+	font-size: 18px;
+	margin: 10px 15px;
+}
+
+.widget .widgetdialogbg {
+	background-color: #f7f7f7;
+	border-top: 1px solid #e4e4e4;
+	position: relative;
+}
+
+/* tabs */
+#wpbh-adm-wrapper .navtabs {
+	list-style: none outside none;
+	margin-bottom: 18px;
+	margin-left: 0;
+	margin-top: 0;
+	background-color: #fe6e4e;
+	min-height: 550px;
+	border-top: 1px solid #dddddd;
+	border-left: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+}
+
+.navtabs:after, .nav-pills:after {
+	clear: both;
+}
+
+.navtabs:before, .nav-pills:before, .navtabs:after, .nav-pills:after {
+	content: "";
+	display: table;
+}
+
+.navtabs:before, .nav-pills:before, .navtabs:after, .nav-pills:after {
+	content: "";
+	display: table;
+}
+
+.tabs-left > .navtabs {
+	float: left;
+}
+
+.tabs-left > .navtabs > li, .tabs-right > .navtabs > li {
+	float: none;
+}
+
+.navtabs > li {
+	margin-bottom: -1px;
+}
+
+.tabs-left > .navtabs > li {
+	border-radius: 0px;
+}
+
+.tabs-left > .navtabs > li, .tabs-right > .navtabs > li {
+	margin-right: 0;
+}
+
+.navtabs > .active > a, .navtabs > .active:hover {
+	color: #555555;
+	cursor: default;
+}
+
+.navtabs > li {
+	border: 1px solid transparent;
+	border-radius: 0;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	font-weight: bold;
+	line-height: 14px;
+	margin-right: 2px;
+	padding: 20px;
+}
+
+#wpbh-adm-wrapper .tabs-left > .navtabs .active, #wpbh-adm-wrapper .tabs-left > .navtabs .active:hover {
+	background-color: #fff;
+	color: #fe6e4e;
+	opacity: 1;
+}
+
+.tabs-left > .navtabs > li {
+	border-radius: 0;
+}
+
+.navtabs > li:hover {
+	background-color: #f2f2f2;
+	text-decoration: none;
+}
+
+.tabs-left > .navtabs > li:hover {
+	opacity: 0.5;
+	color: #222222;
+}
+
+.tabs-left > .navtabs .active:hover {
+	background: #fff;
+}
+
+.tabcontent > .tab-pane {
+	display: none;
+}
+
+.tabcontent > .active {
+	display: block;
+}
+
+#wpbh-adm-wrapper .tabcontent {
+	border-right: 1px solid #dddddd;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	min-height: 512px;
+	max-height: 512px;
+	overflow-y: auto;
+	padding: 19px;
+	background-color: #fff;
+	border-radius: 0;
+	margin-top: 0;
+}
+
+.box {
+	padding: 20px;
+	display: none;
+	margin-top: 20px;
+	border: 1px solid #000;
+}

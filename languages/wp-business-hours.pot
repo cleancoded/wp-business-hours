@@ -1,0 +1,371 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-16 18:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/functions.php:65
+msgid "Business Hours"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "We are currently open! Yes, come in"
+msgstr ""
+
+#: includes/functions.php:67
+msgid "Sorry, We are currently closed!"
+msgstr ""
+
+#: includes/functions.php:68
+msgid "Open"
+msgstr ""
+
+#: includes/functions.php:69
+msgid "Closed"
+msgstr ""
+
+#: includes/functions.php:70
+msgid "Open 24 hours"
+msgstr ""
+
+#: includes/functions.php:71
+msgid "Closed All Day"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "Special holiday hours in effect."
+msgstr ""
+
+#: includes/functions.php:73
+msgid "We are closed for the season. We open on"
+msgstr ""
+
+#: includes/functions.php:239 includes/functions.php:280
+msgid "Today"
+msgstr ""
+
+#: includes/functions.php:344
+msgid "Tomorrow"
+msgstr ""
+
+#: includes/functions.php:585
+msgid "another day"
+msgstr ""
+
+#: includes/functions.php:632
+msgid "Monday"
+msgstr ""
+
+#: includes/functions.php:633
+msgid "Mon"
+msgstr ""
+
+#: includes/functions.php:636
+msgid "Tuesday"
+msgstr ""
+
+#: includes/functions.php:637
+msgid "Tue"
+msgstr ""
+
+#: includes/functions.php:640
+msgid "Wednesday"
+msgstr ""
+
+#: includes/functions.php:641
+msgid "Wed"
+msgstr ""
+
+#: includes/functions.php:644
+msgid "Thursday"
+msgstr ""
+
+#: includes/functions.php:645
+msgid "Thu"
+msgstr ""
+
+#: includes/functions.php:648
+msgid "Friday"
+msgstr ""
+
+#: includes/functions.php:649
+msgid "Fri"
+msgstr ""
+
+#: includes/functions.php:652
+msgid "Saturday"
+msgstr ""
+
+#: includes/functions.php:653
+msgid "Sat"
+msgstr ""
+
+#: includes/functions.php:656
+msgid "Sunday"
+msgstr ""
+
+#: includes/functions.php:657
+msgid "Sun"
+msgstr ""
+
+#: includes/widget.php:26
+msgid "Displays a business hours widget"
+msgstr ""
+
+#. Name of the plugin
+#: includes/widget.php:31 includes/widget.php:281
+msgid "Advanced Business Hours"
+msgstr ""
+
+#: includes/widget.php:334
+msgid "Title"
+msgstr ""
+
+#: includes/widget.php:343
+msgid "Open Hours Message"
+msgstr ""
+
+#: includes/widget.php:352
+msgid "Closed Hours Message"
+msgstr ""
+
+#: includes/widget.php:361
+msgid "Currently Open/Closed Badges"
+msgstr ""
+
+#: includes/widget.php:374
+msgid "Open 24 hours Text"
+msgstr ""
+
+#: includes/widget.php:383
+msgid "Closed All Day Text"
+msgstr ""
+
+#: includes/widget.php:392
+msgid "Holiday Message for Header"
+msgstr ""
+
+#: includes/widget.php:401
+msgid "Seasonal Message"
+msgstr ""
+
+#: includes/widget.php:415
+msgid "Business Hours Data"
+msgstr ""
+
+#: includes/widget.php:418
+msgid ""
+"Opening and closing hours using 12 hr clock. Ex: start at 8:00 AM and end at "
+"4:00 PM."
+msgstr ""
+
+#: includes/widget.php:483
+msgid ""
+"<strong>NOTE:</strong> If both fields are left empty, the front end will "
+"display hours as closed all day."
+msgstr ""
+
+#: includes/widget.php:494
+msgid "Holidays & Special Days"
+msgstr ""
+
+#: includes/widget.php:497
+msgid ""
+"Holidays data only works for today's hours. Please visit <a href=\"https:"
+"//help.dolatabadi.ca/advanced-business-hours/how-to-add-holidayspecial-days-"
+"hours.html\" target=\"_blank\">Help Center</a> for details."
+msgstr ""
+
+#: includes/widget.php:556
+msgid "Seasonal Time Period"
+msgstr ""
+
+#: includes/widget.php:559
+msgid ""
+"Select seasonal start and end date. Leave empty for regular yearly hours."
+msgstr ""
+
+#: includes/widget.php:597
+msgid "Header Background and Text Colors"
+msgstr ""
+
+#: includes/widget.php:600
+msgid ""
+"Select a background color and and a text color for the widget's header "
+"respectively."
+msgstr ""
+
+#: includes/widget.php:614
+msgid "Body Background and Text Colors"
+msgstr ""
+
+#: includes/widget.php:617
+msgid "Select a color for the body background and text color for the content."
+msgstr ""
+
+#: includes/widget.php:631
+msgid "Calendar Image/Icon Color"
+msgstr ""
+
+#: includes/widget.php:634
+msgid "Color for the calendar image/icon in the header."
+msgstr ""
+
+#: includes/widget.php:644
+msgid "Footer Background and Text Color"
+msgstr ""
+
+#: includes/widget.php:647
+msgid "Select footer background color and text color respectively."
+msgstr ""
+
+#: includes/widget.php:661
+msgid "Open/Closed Badge Color"
+msgstr ""
+
+#: includes/widget.php:664
+msgid "Select a color for the open and closed badges respectively."
+msgstr ""
+
+#: includes/widget.php:689
+msgid "Display hours for the entire week"
+msgstr ""
+
+#: includes/widget.php:698
+msgid "Abbreviations of days of the week"
+msgstr ""
+
+#: includes/widget.php:707
+msgid "Hide today's hours when closed"
+msgstr ""
+
+#: includes/widget.php:717
+msgid "Hide today's hours when open"
+msgstr ""
+
+#: includes/widget.php:727
+msgid "Show tomorrow's hours"
+msgstr ""
+
+#: includes/widget.php:737
+msgid "Display open 24 hours for certain days"
+msgstr ""
+
+#: includes/widget.php:747
+msgid "Display hours using 24 hour format"
+msgstr ""
+
+#: includes/widget.php:757
+msgid "Group consecutive days"
+msgstr ""
+
+#: includes/widget.php:766
+msgid "Use Font Awesome Icon"
+msgstr ""
+
+#: includes/widget.php:769
+msgid ""
+"Visit <a href=\"http://fontawesome.io/icons/\" target=\"_blank\">here</a> to "
+"get list of icons."
+msgstr ""
+
+#: includes/widget.php:782
+msgid "Include Font Awesome CSS File in Front End"
+msgstr ""
+
+#: includes/widget.php:792
+msgid "Countdown to Closing and Opening Hours"
+msgstr ""
+
+#: includes/widget.php:802
+msgid "Load widget using ajax"
+msgstr ""
+
+#: includes/widget.php:812
+msgid "Load customizations as inline style in the header"
+msgstr ""
+
+#: includes/widget.php:823
+msgid "Before Widget"
+msgstr ""
+
+#: includes/widget.php:826
+msgid "Info to display before the widget. HTML tags are supported."
+msgstr ""
+
+#: includes/widget.php:835
+msgid "After Widget"
+msgstr ""
+
+#: includes/widget.php:838
+msgid "Info to display after the widget. HTML tags are supported."
+msgstr ""
+
+#: includes/widget.php:847
+msgid "Header Background Image"
+msgstr ""
+
+#: includes/widget.php:851
+msgid "Header image during opening hours."
+msgstr ""
+
+#: includes/widget.php:860
+msgid "Header image during closing hours."
+msgstr ""
+
+#: includes/widget.php:869
+msgid ""
+"<strong>NOTE:</strong> Must set both images, this will replace the default "
+"header. Which means calendar image and today's date will be hidden."
+msgstr ""
+
+#: includes/widget.php:881
+msgid "Shortcode"
+msgstr ""
+
+#: includes/widget.php:884
+msgid ""
+"Use the following shortcode to display this widget anywhere in your posts "
+"and pages."
+msgstr ""
+
+#: includes/widget.php:893
+msgid ""
+"<strong>Note:</strong> You must save the widget first and drag it to "
+"inactive widgets area at the bottom of this page and configure it."
+msgstr ""
+
+#: includes/widget.php:898
+msgid "Shortcode for Themes"
+msgstr ""
+
+#: includes/widget.php:901
+msgid ""
+"If you want to insert the shortcode directly in your theme, use the "
+"following code:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin creates an advanced widget that can be used to display business "
+"hours."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/mrbeaver"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mr. Beaver"
+msgstr ""
